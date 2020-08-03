@@ -215,8 +215,6 @@ Current 3rd party sources include:
   http://svihackathon3.plannary.com/
 * propic - OGP
   http://propic.com/254
-* avairy.com - OGP
-  http://advanced.aviary.com/artists/jas7229/creations/glowing_orb
 * lomography - ogp
   http://www.lomography.com/photos/cameras/3334141-lomo-lc-wide/popular/14660387
 * weheartit - ogp
